@@ -1,5 +1,5 @@
 {
-    "name": "client",
+    "name": "reddit-clone",
     "description": "Build scripts for Heroku",
     "engines": {
       "node": ">= 14"
